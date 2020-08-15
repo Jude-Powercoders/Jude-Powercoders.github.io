@@ -3,3 +3,9 @@ h1 {
     color: #ffffff;
     font-size: 100px;
 }
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
