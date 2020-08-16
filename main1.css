@@ -3,7 +3,7 @@ h1 {
     font-size: 100px;
 }
 .header img {
-  img-align: left;
+  float: left;
   width: 100px;
   height: 120px;
  
