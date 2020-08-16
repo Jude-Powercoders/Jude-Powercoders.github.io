@@ -1,16 +1,15 @@
 h1 {
-    background-color: #375fce;
-    color: #ffffff;
+    
     font-size: 100px;
 }
 .header img {
   float: left;
   width: 100px;
   height: 140px;
-  background: #555;
+ 
 }
 .header h1 {
   position: center;
   top: 18px;
-  left: 10px;
+  left: 18px;
 }
