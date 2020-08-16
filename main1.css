@@ -16,10 +16,6 @@ h1 {
   text-align: left;
     margin-left 60px;
     
-    color: black;
+    color: white;
  }
 
-.header h1 {
-     width:100%;
-     background-image:"image/BG.jpg";
-}
