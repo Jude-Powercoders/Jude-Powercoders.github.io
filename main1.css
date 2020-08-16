@@ -14,3 +14,6 @@ h1 {
     background: #1abc9c;
     color: white;
  }
+img {
+  border-radius:70%;
+}
