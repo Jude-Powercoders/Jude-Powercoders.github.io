@@ -4,12 +4,13 @@ h1 {
 }
 .header img {
   float: left;
+    margin-left: 30px;
   width: 100px;
   height: 120px;
  
 }
 .header h1 {
-    padding: 30px;
+    padding: 20px;
   text-align: center;
     background: #1abc9c;
     color: white;
