@@ -20,7 +20,7 @@ h1 {
 img {
   border-radius:50%;
 }
-header {
+.header h1 {
      width:100%;
      background-image:url("image/BG.jpg");
 }
