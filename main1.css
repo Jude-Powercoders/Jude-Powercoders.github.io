@@ -8,6 +8,7 @@ h1 {
     margin-top: 20px;
   width: 100px;
   height: 120px;
+     border-radius:50%;
  
 }
 .header h1 {
@@ -17,9 +18,7 @@ h1 {
     
     color: white;
  }
-img {
-  border-radius:50%;
-}
+
 .header h1 {
      width:100%;
      background-image:url("image/BG.jpg");
