@@ -1,6 +1,6 @@
 h1 {
     
-    font-size: 100px;
+    font-size: 80px;
 }
 .header img {
   float: left;
@@ -14,7 +14,7 @@ h1 {
 .header h1 {
     
   text-align: left;
-    margin-left 60px;
+    margin-left 80px;
     
     color: white;
  }
