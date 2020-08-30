@@ -48,7 +48,7 @@ body {
         
         .footer-links {
             float: left;
-            width: 3.33%;
+            width: 2%;
             padding: 5px;
             margin-left: 45px;
             margin-bottom: 25px;
@@ -73,5 +73,5 @@ body {
         border-color: rgb(74, 134, 155);
     }
     .footer {
-        margin-left: 50px;
+        margin-left: 60px;
 }
