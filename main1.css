@@ -47,7 +47,7 @@ body {
 }       
         
         .footer-links {
-            float: center;
+            float: left;
             width: 5%;
             padding: 5px;
             margin-left: 45px;
