@@ -47,10 +47,10 @@ body {
 }       
         
         .footer-links {
-            float: left;
+            
             width: 5%;
             padding: 5px;
-            display: block;
+            display: flex;
             margin-left: auto;
             margin-right: auto;
             margin-bottom: 15px;
