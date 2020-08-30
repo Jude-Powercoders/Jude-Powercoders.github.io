@@ -75,3 +75,6 @@ body {
     .footer {
         margin-left: 100px;
 }
+#footer {
+    margin-bottom: 5px;
+}
