@@ -64,11 +64,7 @@ body {
   font-size: 17px;  
           margin-left: 50px;
         }
-footer img{
-        margin: 1em;
-        
-        border-bottom: solid transparent 2px;
-    }
+
     footer img:hover{
         border-bottom: solid 2px;
         filter: brightness(50%);
