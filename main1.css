@@ -52,12 +52,10 @@ body {
 }
 
         .footer-links {
-            display: inline-block;
-/*margin-left: 300px;*/
-/*margin-left: 300px;*/
+            
             width: 5%;
                        
-                       /* float: left; */
+                       float: left;
              
             margin-bottom: 15px;
         }
